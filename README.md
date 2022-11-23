@@ -16,6 +16,3 @@
 
 ![grid snake animation](./assets/github-user-contribution.svg)
 
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
